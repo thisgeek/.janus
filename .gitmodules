@@ -4,3 +4,6 @@
 [submodule "tir_black"]
 	path = tir_black
 	url = https://github.com/vim-scripts/tir_black
+[submodule "jsbeautify"]
+	path = jsbeautify
+	url = git://github.com/vim-scripts/jsbeautify.git
