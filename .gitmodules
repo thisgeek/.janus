@@ -1,3 +1,6 @@
 [submodule "jshint.vim"]
 	path = jshint.vim
 	url = git://github.com/wookiehangover/jshint.vim.git
+[submodule "tir_black"]
+	path = tir_black
+	url = https://github.com/vim-scripts/tir_black
