@@ -1,0 +1,3 @@
+[submodule "jshint.vim"]
+	path = jshint.vim
+	url = git://github.com/wookiehangover/jshint.vim.git
