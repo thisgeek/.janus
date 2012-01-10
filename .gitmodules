@@ -3,7 +3,7 @@
 	url = git://github.com/wookiehangover/jshint.vim.git
 [submodule "tir_black"]
 	path = tir_black
-	url = https://github.com/vim-scripts/tir_black
+	url = git://github.com/vim-scripts/tir_black.git
 [submodule "jsbeautify"]
 	path = jsbeautify
 	url = git://github.com/vim-scripts/jsbeautify.git
