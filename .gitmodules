@@ -10,3 +10,6 @@
 [submodule "tagbar"]
 	path = tagbar
 	url = git://github.com/majutsushi/tagbar.git
+[submodule "ftl-vim-syntax"]
+	path = ftl-vim-syntax
+	url = git://github.com/chaquotay/ftl-vim-syntax.git
