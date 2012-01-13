@@ -13,3 +13,6 @@
 [submodule "ftl-vim-syntax"]
 	path = ftl-vim-syntax
 	url = git://github.com/chaquotay/ftl-vim-syntax.git
+[submodule "css.syntax.vim"]
+	path = css.syntax.vim
+	url = git@github.com:thisgeek/css.syntax.vim.git
