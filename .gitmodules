@@ -13,3 +13,6 @@
 [submodule "css.syntax.vim"]
 	path = css.syntax.vim
 	url = git@github.com:thisgeek/css.syntax.vim.git
+[submodule "applescript.vim"]
+	path = applescript.vim
+	url = git://github.com/vim-scripts/applescript.vim.git
