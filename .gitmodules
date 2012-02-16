@@ -16,3 +16,6 @@
 [submodule "applescript.vim"]
 	path = applescript.vim
 	url = git://github.com/vim-scripts/applescript.vim.git
+[submodule "custom-snippets"]
+	path = custom-snippets
+	url = git://github.com/thisgeek/custom-snippets.git
