@@ -19,3 +19,6 @@
 [submodule "custom-snippets"]
 	path = custom-snippets
 	url = git://github.com/thisgeek/custom-snippets.git
+[submodule "velocity.vim"]
+	path = velocity.vim
+	url = git://github.com/vim-scripts/velocity.vim.git
