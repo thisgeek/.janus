@@ -22,3 +22,6 @@
 [submodule "jshint.vim"]
 	path = jshint.vim
 	url = git@github.com:thisgeek/jshint.vim.git
+[submodule "html5-syntax.vim"]
+	path = html5-syntax.vim
+	url = git://github.com/othree/html5-syntax.vim.git
