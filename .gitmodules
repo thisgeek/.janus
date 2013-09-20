@@ -22,3 +22,6 @@
 [submodule "html5-syntax.vim"]
 	path = html5-syntax.vim
 	url = git://github.com/othree/html5-syntax.vim.git
+[submodule "vim-actionscript"]
+	path = vim-actionscript
+	url = https://github.com/jeroenbourgois/vim-actionscript.git
