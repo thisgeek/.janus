@@ -1,27 +1,27 @@
 [submodule "tir_black"]
 	path = tir_black
-	url = git://github.com/vim-scripts/tir_black.git
+	url = https://github.com/vim-scripts/tir_black.git
 [submodule "jsbeautify"]
 	path = jsbeautify
-	url = git://github.com/vim-scripts/jsbeautify.git
+	url = https://github.com/vim-scripts/jsbeautify.git
 [submodule "ftl-vim-syntax"]
 	path = ftl-vim-syntax
-	url = git://github.com/chaquotay/ftl-vim-syntax.git
+	url = https://github.com/chaquotay/ftl-vim-syntax.git
 [submodule "css.syntax.vim"]
 	path = css.syntax.vim
-	url = git://github.com/thisgeek/css.syntax.vim.git
+	url = https://github.com/thisgeek/css.syntax.vim.git
 [submodule "applescript.vim"]
 	path = applescript.vim
-	url = git://github.com/vim-scripts/applescript.vim.git
+	url = https://github.com/vim-scripts/applescript.vim.git
 [submodule "custom-snippets"]
 	path = custom-snippets
-	url = git://github.com/thisgeek/custom-snippets.git
+	url = https://github.com/thisgeek/custom-snippets.git
 [submodule "vm.vim"]
 	path = vm.vim
-	url = git://github.com/vim-scripts/vm.vim.git
+	url = https://github.com/vim-scripts/vm.vim.git
 [submodule "html5-syntax.vim"]
 	path = html5-syntax.vim
-	url = git://github.com/othree/html5-syntax.vim.git
+	url = https://github.com/othree/html5-syntax.vim.git
 [submodule "vim-actionscript"]
 	path = vim-actionscript
 	url = https://github.com/jeroenbourgois/vim-actionscript.git
