@@ -4,9 +4,6 @@
 [submodule "jsbeautify"]
 	path = jsbeautify
 	url = https://github.com/vim-scripts/jsbeautify.git
-[submodule "ftl-vim-syntax"]
-	path = ftl-vim-syntax
-	url = https://github.com/chaquotay/ftl-vim-syntax.git
 [submodule "css.syntax.vim"]
 	path = css.syntax.vim
 	url = https://github.com/thisgeek/css.syntax.vim.git
@@ -31,3 +28,6 @@
 [submodule "vim-jade"]
 	path = vim-jade
 	url = https://github.com/digitaltoad/vim-jade.git
+[submodule "ftl-vim-syntax"]
+	path = ftl-vim-syntax
+	url = https://github.com/patrickmcelwee/ftl-vim-syntax.git
