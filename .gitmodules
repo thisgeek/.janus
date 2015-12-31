@@ -31,3 +31,6 @@
 [submodule "ftl-vim-syntax"]
 	path = ftl-vim-syntax
 	url = https://github.com/patrickmcelwee/ftl-vim-syntax.git
+[submodule "devdocs.vim"]
+	path = devdocs.vim
+	url = https://github.com/rhysd/devdocs.vim.git
