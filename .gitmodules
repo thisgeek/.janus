@@ -34,3 +34,6 @@
 [submodule "devdocs.vim"]
 	path = devdocs.vim
 	url = https://github.com/rhysd/devdocs.vim.git
+[submodule "vim-fubitive"]
+	path = vim-fubitive
+	url = https://github.com/tommcdo/vim-fubitive.git
