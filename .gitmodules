@@ -37,3 +37,6 @@
 [submodule "vim-fubitive"]
 	path = vim-fubitive
 	url = https://github.com/tommcdo/vim-fubitive.git
+[submodule "todo.txt-vim"]
+	path = todo.txt-vim
+	url = https://github.com/freitass/todo.txt-vim.git
