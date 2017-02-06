@@ -49,3 +49,6 @@
 [submodule "delimitMate"]
 	path = delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
+[submodule "vim-ava-snippets"]
+	path = vim-ava-snippets
+	url = https://github.com/ahmedelgabri/vim-ava-snippets.git
