@@ -52,3 +52,9 @@
 [submodule "vim-ava-snippets"]
 	path = vim-ava-snippets
 	url = https://github.com/ahmedelgabri/vim-ava-snippets.git
+[submodule "vim-ragtag"]
+	path = vim-ragtag
+	url = https://github.com/tpope/vim-ragtag.git
+[submodule "syntastic-local-eslint.vim"]
+	path = syntastic-local-eslint.vim
+	url = https://github.com/mtscout6/syntastic-local-eslint.vim.git
