@@ -4,9 +4,6 @@
 [submodule "jsbeautify"]
 	path = jsbeautify
 	url = https://github.com/vim-scripts/jsbeautify.git
-[submodule "css.syntax.vim"]
-	path = css.syntax.vim
-	url = https://github.com/thisgeek/css.syntax.vim.git
 [submodule "applescript.vim"]
 	path = applescript.vim
 	url = https://github.com/vim-scripts/applescript.vim.git
