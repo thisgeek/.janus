@@ -46,3 +46,6 @@
 [submodule "syntastic-local-eslint.vim"]
 	path = syntastic-local-eslint.vim
 	url = https://github.com/mtscout6/syntastic-local-eslint.vim.git
+[submodule "vim-abolish"]
+	path = vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
