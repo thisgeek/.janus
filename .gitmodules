@@ -49,3 +49,6 @@
 [submodule "vim-abolish"]
 	path = vim-abolish
 	url = https://github.com/tpope/vim-abolish.git
+[submodule "vim-commentary"]
+	path = vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
